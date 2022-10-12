@@ -1,0 +1,11 @@
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\bin\Debug\Vizefinalhesaplama.exe.config
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\bin\Debug\Vizefinalhesaplama.exe
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\bin\Debug\Vizefinalhesaplama.pdb
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.csproj.AssemblyReference.cache
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.Properties.Resources.resources
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.csproj.GenerateResource.cache
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.exe
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.pdb
+C:\Users\nihat\source\repos\Vizefinalhesaplama\Vizefinalhesaplama\obj\Debug\Vizefinalhesaplama.Form1.resources
